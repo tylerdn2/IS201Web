@@ -1,0 +1,36 @@
+body {
+	background-color: #a3c2b9;
+	color: #515252;
+	font-family:Times New Roman;
+}
+
+h1 {
+	text-align:center;
+}
+
+.navbar {
+	padding-left:90%;
+	color:black;
+}
+
+.video {
+	padding-left:25%;
+}
+
+.div-1 {
+	background-color:black;
+	color:white;
+}
+
+.div-2 {
+	background-color:white;
+}
+
+.div-3 {
+	background-color:purple;
+	color:white;
+}
+.anchor {
+	background-color:blue;
+	color:white;
+}
